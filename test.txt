@@ -5,3 +5,4 @@ test.html
 test.txt
 >>>>>>> feature1
 test.html
+test.txt
