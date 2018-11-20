@@ -10,4 +10,8 @@ test.txt
 test
 =======
 test.html
+<<<<<<< HEAD
+>>>>>>> dev2
+=======
+test.txt
 >>>>>>> dev2
