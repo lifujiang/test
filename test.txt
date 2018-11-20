@@ -17,3 +17,4 @@ test.txt
 >>>>>>> dev2
 test.html
 test.txt
+test.html
