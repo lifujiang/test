@@ -6,4 +6,8 @@ test.txt
 >>>>>>> feature1
 test.html
 test.txt
+<<<<<<< HEAD
 test
+=======
+test.html
+>>>>>>> dev2
