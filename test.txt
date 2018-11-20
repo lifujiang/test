@@ -6,3 +6,4 @@ test.txt
 >>>>>>> feature1
 test.html
 test.txt
+test
