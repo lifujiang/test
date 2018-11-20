@@ -1,2 +1,6 @@
 test.txt
+<<<<<<< HEAD
 test.html
+=======
+test.txt
+>>>>>>> feature1
